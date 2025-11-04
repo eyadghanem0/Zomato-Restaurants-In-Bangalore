@@ -17,8 +17,9 @@ to complete the report. Then, two other dataframes were created, each with eithe
 that offer more than one cuisine and belong to more than a single type) . All three dataframe, so splitting was crucial to visualize the correct count of each category. Finally, all 
 three dataframe were saved as csv files.
 
-##**Power BI Report**
+## **Power BI Report**
 The saved csv files were imported into Power BI. New columns, a new table, and mesaures were also added to improve and finalize the visualizations. The report is divided into pages
 titled according to their content.
 
-##You can open the python lab(.ipynb) to view the code, the Power BI file to view the report or just the pdf file for a quick view.
+## You can open the python lab(.ipynb) to view the code, the Power BI file to view the report or just the pdf file for a quick view.
+
